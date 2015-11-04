@@ -1,0 +1,7 @@
+[package]
+name = "kipa_lasku"
+version = "0.0.1"
+authors = ["leo"]
+[lib]
+name = "laskuri"
+crate-type = ["dylib"]  
